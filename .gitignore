@@ -1,1 +1,6 @@
+# rust ignore
 /target
+
+# dotnet ignore
+bin/
+obj/
